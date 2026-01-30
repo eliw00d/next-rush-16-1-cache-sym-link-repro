@@ -1,0 +1,5 @@
+{
+  "pnpmStore": "local",
+  "strictPeerDependencies": false,
+  "useWorkspaces": true
+}
